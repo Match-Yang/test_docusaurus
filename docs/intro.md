@@ -6,6 +6,7 @@ sidebar_position: 1
 
 88888
 99999
+0000
 Hello
 Let's discover **Docusaurus in less than 5 minutes**.
 
